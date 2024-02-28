@@ -4,7 +4,7 @@ Title: About
 
 倉儲: <a href="https://40923140.github.io">https://40923140.github.io</a>
 
-網站: <a href="https://40923140.github.io/cd2024">https://40923140.github.io/cd2024</a>
+網站: <a href="https://40923140.github.io/cd2024/">https://40923140.github.io/cd2024/</a>
 
 簡報: <a href="https://40923140.github.io/cd2024/reveal/">https://40923140.github.io/cd2024/reveal/</a>
 
