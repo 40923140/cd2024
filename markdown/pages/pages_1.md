@@ -8,7 +8,7 @@ Title: About
 
 簡報: <a href="https://40923140.github.io/cd2024/reveal/">https://40923140.github.io/cd2024/reveal/</a>
 
-網誌: <a href="https://40923140.github.io/cd2024/blog">https://40923140.github.io/cd2024/blog</a>
+網誌: <a href="https://40923140.github.io/cd2024/blog/">https://40923140.github.io/cd2024/blog/</a>
 
 
 
