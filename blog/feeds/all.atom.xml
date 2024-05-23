@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40923140協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-22T14:29:32+08:00</updated><entry><title>W10網誌</title><link href="./2024-Spring-w10%20%2040923140-blog.html" rel="alternate"></link><published>2024-05-21T18:00:00+08:00</published><updated>2024-05-22T14:29:32+08:00</updated><author><name>40923140</name></author><id>tag:None,2024-05-21:./2024-Spring-w10  40923140-blog.html</id><summary type="html">&lt;p&gt;論文心得&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40923140協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-23T05:54:06+08:00</updated><entry><title>W10網誌</title><link href="./2024-Spring-w10%20%2040923140-blog.html" rel="alternate"></link><published>2024-05-21T18:00:00+08:00</published><updated>2024-05-22T14:29:32+08:00</updated><author><name>40923140</name></author><id>tag:None,2024-05-21:./2024-Spring-w10  40923140-blog.html</id><summary type="html">&lt;p&gt;論文心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;論文心得&lt;/p&gt;
 
 
@@ -15,7 +15,12 @@
 &lt;p&gt;論文五 : Ball_on_the_plate_balancing_control_system
 這篇文章介紹了用於教學的兩自由度球平衡系統，包括其機械設計和控制算法。系統採用電阻式觸摸屏、步進電機和基於AVR微控制器的雙迴路從屬控制系統來維持球的位置。該平台在聖彼得堡電工大學設計和組裝，用於展示控制系統的效果，並應用於交通、導航和攝影等領域。&lt;/p&gt;
 &lt;p&gt;論文六 : 2D Ball Balancer Control using QUARC
-這次實驗讓我深入了解了如何使用QUARC控制系統來穩定二維球平衡器。從建模到控制設計，每個步驟都提供了寶貴的學習經驗，尤其是PID控制器的設計和實現。整個過程不僅提升了我的理論知識，還增強了實踐操作能力。&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W6網誌</title><link href="./2024-Spring-w6%2040923140-blog.html" rel="alternate"></link><published>2024-04-04T18:00:00+08:00</published><updated>2024-05-22T14:29:11+08:00</updated><author><name>40923140</name></author><id>tag:None,2024-04-04:./2024-Spring-w6 40923140-blog.html</id><summary type="html">&lt;p&gt;NX零組件繪製&lt;/p&gt;
+這次實驗讓我深入了解了如何使用QUARC控制系統來穩定二維球平衡器。從建模到控制設計，每個步驟都提供了寶貴的學習經驗，尤其是PID控制器的設計和實現。整個過程不僅提升了我的理論知識，還增強了實踐操作能力。&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W8網誌</title><link href="./2024-Spring-w8%20%20%2040923140-blog.html" rel="alternate"></link><published>2024-04-24T18:00:00+08:00</published><updated>2024-05-23T05:54:06+08:00</updated><author><name>40923140</name></author><id>tag:None,2024-04-24:./2024-Spring-w8   40923140-blog.html</id><summary type="html">&lt;p&gt;期中報告&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;期中報告&lt;/p&gt;
+
+
+&lt;h1&gt;w8&lt;/h1&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vXgl-Iz2BoA?si=L9CWNQnnthSgP2rf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="w8"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W6網誌</title><link href="./2024-Spring-w6%2040923140-blog.html" rel="alternate"></link><published>2024-04-04T18:00:00+08:00</published><updated>2024-05-22T14:29:11+08:00</updated><author><name>40923140</name></author><id>tag:None,2024-04-04:./2024-Spring-w6 40923140-blog.html</id><summary type="html">&lt;p&gt;NX零組件繪製&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;NX零組件繪製&lt;/p&gt;
 
 
