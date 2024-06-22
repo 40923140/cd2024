@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2024-06-22T11:40:44-00:00</lastmod>
+<lastmod>2024-06-22T12:00:23-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2024-06-22T11:40:44-00:00</lastmod>
+<lastmod>2024-06-22T12:00:23-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2024-06-22T11:40:44-00:00</lastmod>
+<lastmod>2024-06-22T12:00:23-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2024-06-22T11:40:44-00:00</lastmod>
+<lastmod>2024-06-22T12:00:23-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -67,8 +67,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./2024-Spring-w14  40923140-blog.html</loc>
-<lastmod>2024-06-13T06:28:28+08:00</lastmod>
+<loc>./2024-Spring-w15  40923140-blog.html</loc>
+<lastmod>2024-06-22T12:00:09+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -76,6 +76,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./2024-Spring-w12   40923140-blog.html</loc>
 <lastmod>2024-05-30T06:02:04+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./2024-Spring-w14  40923140-blog.html</loc>
+<lastmod>2024-06-22T11:59:44+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -193,8 +200,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./category/w14.html</loc>
+<lastmod>2024-06-22T11:59:44+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./category/w15.html</loc>
-<lastmod>2024-06-13T06:28:28+08:06</lastmod>
+<lastmod>2024-06-22T12:00:09+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -257,21 +271,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./tag/wang-zhi-bian-xie.html</loc>
-<lastmod>2024-06-22T11:38:18+08:06</lastmod>
+<lastmod>2024-06-22T12:00:09+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/pelican.html</loc>
-<lastmod>2024-06-22T11:38:18+08:06</lastmod>
+<lastmod>2024-06-22T12:00:09+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./author/40923140.html</loc>
-<lastmod>2024-06-22T11:38:18+08:06</lastmod>
+<lastmod>2024-06-22T12:00:09+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
